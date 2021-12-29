@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏃‍♂️👶🎮🕹🎼🎵🎙🎸🎬🎥💵⏰🍕🌭🍔🥓✈🚗🏖⛄❄
+
+<h1>Olá! 👋</h1>
+<p>Bem vindo ao meu perfil no GitHub 😊. Me chamo Erick Nascimento, tenho 28 anos, sou casado e moro em Magé no Rio de Janeiro.</p>
+<p>Aqui vão algumas informações sobre mim</p>
+
+<ul>
+  <li>👨‍🎓 Formação: Sou formado em Ciências da Computação pela Unisuam (Bonsucesso-RJ).</li>
+  <li>Experiências anteriores: Antes de trabalhar como dev, atuei como balconista em uma padaria, vendedor, atendente de telemarketing, assistente administrativo e analista de       infraestrutura.</li>
+  <li>O que faço atualmente: Hoje trabalho como dev em uma empresa chamada Simbiose Ventures. Nas horas vagas gravo para o canal Se7i Tecnologia, amo jogar e praticar esportes (corrida e artes marciais).</li>
+  <li>O que estudo atualmente: Estou focado em aprimorar minhas habiliades com o desenvolvimento web. HTML5, CSS e JavaScript bem como seus frameworks</li>
+</ul>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+<br>
+
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
