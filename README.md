@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 <!--
 **Erick-Nascimento/Erick-Nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏃‍♂️👶🎮🕹🎼🎵🎙🎸🎬🎥💵⏰🍕🌭🍔🥓✈🚗🏖⛄❄
+<!--🏃‍♂️👶🎮🕹🎼🎵🎙🎸🎬🎥💵⏰🍕🌭🍔🥓✈🚗🏖⛄❄-->
 
 <h1>Olá! 👋</h1>
 <p>Bem vindo ao meu perfil no GitHub 😊. Me chamo Erick Nascimento, tenho 28 anos, sou casado e moro em Magé no Rio de Janeiro.</p>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <li>👨‍🎓 Formação: Sou formado em Ciências da Computação pela Unisuam (Bonsucesso-RJ).</li>
   <li>Experiências anteriores: Antes de trabalhar como dev, atuei como balconista em uma padaria, vendedor, atendente de telemarketing, assistente administrativo e analista de       infraestrutura.</li>
   <li>O que faço atualmente: Hoje trabalho como dev em uma empresa chamada Simbiose Ventures. Nas horas vagas gravo para o canal Se7i Tecnologia, amo jogar e praticar esportes (corrida e artes marciais).</li>
-  <li>O que estudo atualmente: Estou focado em aprimorar minhas habiliades com o desenvolvimento web. HTML5, CSS e JavaScript bem como seus frameworks</li>
+  <li>O que estudo atualmente: Estou focado em aprimorar minhas habiliades com o desenvolvimento web. HTML5, CSS e JavaScript bem como seus frameworks.</li>
 </ul>
 
 <div style="display: inline_block"><br>
