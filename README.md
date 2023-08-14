@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--🏃‍♂️👶🎮🕹🎼🎵🎙🎸🎬🎥💵⏰🍕🌭🍔🥓✈🚗🏖⛄❄-->
 
 <h1>Olá! 👋</h1>
-<p>Bem vindo ao meu perfil no GitHub 😊. Me chamo Erick Nascimento, tenho 29 anos, sou casado e moro em Magé no Rio de Janeiro.</p>
+<p>Bem vindo ao meu perfil no GitHub 😊. Me chamo Erick Nascimento, tenho 30 anos, sou casado e moro em Magé no Rio de Janeiro.</p>
 <p>Aqui vão algumas informações sobre mim</p>
 
 <ul>
